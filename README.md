@@ -7,7 +7,7 @@ João Victor da Paz https://github.com/JoaoPazn/
 
 Matheus Luciano de Caldas https://github.com/Matheus-LucianoC
 
-Renan aprigio dias https://github.com/renandias3158
+Renan Aprigio Dias https://github.com/renandias3158
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
