@@ -1,5 +1,5 @@
 # PROG-AV3Un
-Projeto da disciplina projeto e prática da 3 unidade no IFPE campus Jaboatão dos Guararapes. Os participantes incluem :
+Projeto da disciplina programação 2 da 3 unidade no IFPE campus Jaboatão dos Guararapes. Os participantes incluem :
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
