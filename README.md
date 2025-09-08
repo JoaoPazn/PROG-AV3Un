@@ -1,1 +1,14 @@
 # PROG-AV3Un
+Projeto da disciplina projeto e prática da 3 unidade no IFPE campus Jaboatão dos Guararapes. Os participantes incluem :
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+João Victor da Paz https://github.com/JoaoPazn/
+
+Matheus Luciano de Caldas https://github.com/Matheus-LucianoC
+
+Renan aprigio dias https://github.com/renandias3158
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Data do projeto : 08/09/25 ~ XX/XX/25
